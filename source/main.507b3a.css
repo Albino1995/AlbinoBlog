@@ -1338,7 +1338,9 @@ pre .css ~ * .id, pre .id {
 }
 
 #header .header-nav .social {
-  margin-top: 10px;
+  margin-top: -20px;
+  margin-right: 10px;
+  /*margin-right: 50%;*/
   text-align: center;
   display: -webkit-box;
   display: -ms-flexbox;
