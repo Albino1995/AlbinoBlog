@@ -1,6 +1,6 @@
 # AlbinoBlog
 
-###### 使用hexo编写的个人博客，主题使用<a href="https://github.com/litten/hexo-theme-yilia">yilia</a>
+###### 使用<a href="https://github.com/hexojs/hexo">hexo</a>编写的个人博客，主题使用<a href="https://github.com/litten/hexo-theme-yilia">yilia</a>
 
 ###### 持续更新中
 -----------------------------------
