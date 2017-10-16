@@ -2,7 +2,6 @@
 
 menu:
   主页: /
-  随笔: /article
 
 # SubNav
 subnav:
@@ -113,9 +112,9 @@ slider:
 # 比如
 #smart_menu:
 #  friends: false
-smart_menu: false
-#  innerArchive: '文章'
-#  aboutme: '关于我'
+smart_menu:
+  innerArchive: '随笔'
+  aboutme: '关于我'
 
 friends: false
 #  友情链接1: http://localhost:4000/
