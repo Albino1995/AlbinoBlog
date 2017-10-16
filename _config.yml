@@ -2,6 +2,7 @@
 
 menu:
   主页: /
+  归档: /archives
 
 # SubNav
 subnav:
@@ -64,7 +65,7 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: /icon.ico
 
 #你的头像url
 avatar: /img/face.jpeg
@@ -124,4 +125,4 @@ friends: false
 #  友情链接5: http://localhost:4000/
 #  友情链接6: http://localhost:4000/
 
-aboutme: 「fluctuat nec mergitur」
+aboutme: 毕业于北京理工大学珠海学院软件工程专业, <br>现就职于中国联通有限公司广州分公司, <br>各种技术学习中, <br>这里会更新一些平时的学习记录。<br><br>「fluctuat nec mergitur」
